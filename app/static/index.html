@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Democratize ML — build a prediction model by drag and drop</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%234338ca'/%3E%3Cpath d='M8 22l6-8 4 5 6-9' fill='none' stroke='%23fff' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="#build">
+      <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><rect width="32" height="32" rx="8" fill="var(--accent)"/><path d="M8 22l6-8 4 5 6-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      Democratize ML
+    </a>
+    <nav>
+      <a href="#build" data-tab="build">Build</a>
+      <a href="#models" data-tab="models">My models</a>
+    </nav>
+  </header>
+
+  <main id="view-build" class="build" hidden>
+    <aside class="palette" aria-label="Blocks">
+      <p class="hint">Drag a block into your recipe — or just tap it.</p>
+      <h2>Example data</h2>
+      <div id="palette-data" class="blocks"></div>
+      <h2>Clean-up</h2>
+      <div id="palette-step" class="blocks"></div>
+      <h2>Learners</h2>
+      <div id="palette-model" class="blocks"></div>
+    </aside>
+
+    <section class="recipe" aria-label="Your recipe">
+      <div class="intro">
+        <h1>Teach a computer to predict, no code needed</h1>
+        <p>Give it a spreadsheet of past examples, point at the column you want predicted, and press Train.</p>
+      </div>
+
+      <article class="stage" id="stage-data">
+        <h2><span class="num">1</span>Add your data</h2>
+        <div id="data-body"></div>
+      </article>
+
+      <article class="stage" id="stage-target">
+        <h2><span class="num">2</span>What do you want to predict?</h2>
+        <div id="target-body"></div>
+      </article>
+
+      <article class="stage" id="stage-steps">
+        <h2><span class="num">3</span>Clean-up <small>optional</small></h2>
+        <div id="steps-zone" class="zone" data-accept="step"></div>
+      </article>
+
+      <article class="stage" id="stage-model">
+        <h2><span class="num">4</span>Learner</h2>
+        <div id="model-zone" class="zone" data-accept="model"></div>
+      </article>
+
+      <div class="train-row">
+        <button id="train" class="primary big" disabled>Train my model</button>
+        <p id="train-msg" role="status"></p>
+      </div>
+    </section>
+  </main>
+
+  <main id="view-models" class="page" hidden>
+    <h1>My models</h1>
+    <div id="models-list"></div>
+  </main>
+
+  <main id="view-model" class="page" hidden></main>
+
+  <input type="file" id="file-input" accept=".csv,.tsv,.txt,.xlsx,.xls" hidden>
+  <div id="toast" role="alert" hidden></div>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+# On-premise: run on any machine or server that has Docker.
+#   docker compose up -d        then open http://localhost:8080
+# Data and trained models are kept in the "ml-data" volume on this machine and never leave it.
+services:
+  app:
+    build: .
+    image: democratize-ml
+    restart: unless-stopped
+    ports:
+      - "${APP_PORT:-8080}:8000"
+    environment:
+      # Set both (e.g. in a .env file next to this one) to require a login.
+      APP_USERNAME: ${APP_USERNAME:-}
+      APP_PASSWORD: ${APP_PASSWORD:-}
+      MAX_UPLOAD_MB: ${MAX_UPLOAD_MB:-25}
+    volumes:
+      - ml-data:/data
+
+volumes:
+  ml-data:

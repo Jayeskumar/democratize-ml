@@ -1,0 +1,701 @@
+area_sqft,bedrooms,age_years,neighbourhood,parking,price
+2122,3,14,Suburb,Yes,240400
+1400,2,14,Suburb,No,158300
+834,1,0,City centre,Yes,128800
+3013,5,19,Suburb,No,254200
+1042,1,0,Suburb,Yes,127400
+464,1,36,City centre,No,22300
+932,2,36,Outskirts,Yes,46400
+1769,2,43,Suburb,Yes,151100
+1921,3,23,City centre,Yes,272200
+1153,1,10,Suburb,Yes,104000
+2290,4,31,City centre,Yes,269300
+515,1,8,City centre,Yes,80200
+2395,4,29,City centre,Yes,305400
+1886,2,28,Suburb,No,161200
+1023,1,36,Riverside,Yes,86900
+2480,3,18,City centre,Yes,344600
+1367,2,23,City centre,No,153300
+2748,5,39,Riverside,Yes,331100
+851,2,14,Outskirts,No,56800
+466,1,38,City centre,Yes,33400
+2248,4,5,Outskirts,Yes,222200
+533,1,41,Suburb,Yes,14000
+1606,1,18,City centre,Yes,201600
+2235,3,15,Suburb,Yes,265700
+1200,1,8,Suburb,Yes,127100
+1215,1,20,Outskirts,Yes,83300
+1068,1,41,Outskirts,Yes,41500
+468,1,44,City centre,No,13200
+3059,4,34,Suburb,No,300900
+2299,2,42,Suburb,Yes,199400
+1774,4,12,Outskirts,No,154200
+990,2,39,City centre,Yes,103900
+3175,5,23,Suburb,Yes,309900
+942,2,0,Outskirts,No,84200
+1333,2,21,City centre,No,173100
+1570,4,44,City centre,Yes,202500
+1042,1,27,Outskirts,Yes,58700
+2112,2,8,Riverside,Yes,279600
+2418,4,42,Suburb,No,199400
+511,1,44,Outskirts,Yes,-3600
+2958,6,12,City centre,No,473400
+1490,1,29,Suburb,Yes,127400
+900,1,27,Outskirts,Yes,43900
+560,1,1,City centre,No,87900
+2820,5,22,Riverside,No,373100
+1510,3,4,Riverside,Yes,220700
+2065,3,42,Suburb,Yes,150100
+693,3,0,Outskirts,Yes,79700
+2936,4,9,City centre,Yes,417800
+2821,4,12,Suburb,Yes,337100
+3052,5,29,City centre,Yes,406000
+2491,4,10,Suburb,No,251000
+1623,2,4,Outskirts,Yes,127300
+1189,1,42,Riverside,Yes,104500
+3038,4,24,Suburb,Yes,310700
+1806,2,8,Riverside,Yes,201300
+946,1,43,Riverside,Yes,59900
+1856,2,42,Riverside,Yes,210600
+1670,3,32,Suburb,No,141000
+747,1,6,Suburb,Yes,79400
+1668,4,1,Outskirts,No,165000
+529,2,0,Outskirts,No,59900
+1124,2,44,Suburb,No,52500
+2862,4,26,Suburb,Yes,279100
+1780,2,24,City centre,No,249400
+1169,3,31,Suburb,Yes,100700
+2519,4,26,Outskirts,No,174200
+2256,4,25,City centre,Yes,347800
+747,1,42,Riverside,No,41500
+513,2,44,City centre,Yes,35200
+1772,2,26,Suburb,No,141400
+1712,3,27,Suburb,Yes,146100
+1895,2,9,Suburb,No,193200
+2217,3,17,City centre,Yes,275800
+990,2,19,City centre,No,137700
+2206,3,42,Outskirts,No,108600
+2215,3,33,Outskirts,Yes,150800
+1342,3,29,Riverside,No,134000
+1145,2,17,Suburb,Yes,111800
+2656,5,38,Suburb,No,263600
+2019,1,7,Riverside,Yes,283400
+2382,4,20,Suburb,No,258200
+2022,3,17,Riverside,No,250600
+1740,2,36,Riverside,Yes,195700
+2509,3,4,Suburb,Yes,276200
+662,2,6,Outskirts,No,59400
+3020,4,4,Suburb,Yes,318100
+2416,3,32,Suburb,No,229900
+2996,5,5,Outskirts,Yes,269800
+873,1,41,Riverside,Yes,77800
+1830,3,22,Outskirts,No,131200
+1875,2,10,Outskirts,Yes,157400
+1172,2,14,Suburb,Yes,114400
+2275,4,9,Riverside,No,293600
+1116,2,8,Suburb,No,100900
+2169,2,3,Suburb,Yes,225900
+2612,4,33,Suburb,Yes,245900
+2838,4,1,Suburb,No,323900
+2540,3,27,City centre,No,304200
+1727,4,27,City centre,No,296700
+2633,3,36,Outskirts,No,162300
+1993,4,11,Suburb,Yes,243800
+2742,4,7,Riverside,Yes,407400
+2331,5,19,Suburb,Yes,200500
+2003,3,27,Suburb,Yes,187100
+2196,2,10,Riverside,Yes,320400
+2918,5,11,Suburb,No,246700
+3193,5,33,Outskirts,No,239700
+2257,4,22,Suburb,Yes,214200
+487,1,40,Suburb,Yes,10800
+2186,3,20,Outskirts,Yes,169400
+1968,3,29,Outskirts,Yes,117600
+2751,5,26,Suburb,Yes,285800
+2660,4,6,Suburb,Yes,276600
+2243,3,25,City centre,No,282300
+1034,1,33,Suburb,No,64300
+2561,4,41,Suburb,Yes,299000
+842,2,2,Riverside,No,122200
+3007,4,28,Riverside,Yes,396200
+1227,1,24,Suburb,No,91400
+1537,3,15,Suburb,Yes,154200
+2039,2,13,Suburb,No,197100
+2515,4,35,Riverside,No,333100
+621,1,20,Suburb,Yes,52700
+1270,1,7,Outskirts,Yes,108700
+1602,3,37,Suburb,No,124800
+1787,3,34,City centre,Yes,284900
+1781,4,30,Riverside,No,185200
+2852,6,25,Outskirts,No,232100
+2061,3,36,City centre,Yes,283700
+3127,5,11,Outskirts,No,257200
+2565,5,37,City centre,Yes,325600
+3055,4,33,Suburb,Yes,264700
+2191,3,27,City centre,No,284800
+2533,5,5,City centre,Yes,401100
+2006,3,14,City centre,No,255500
+2783,4,1,Riverside,Yes,356000
+1189,2,12,City centre,Yes,184500
+2882,4,12,Suburb,No,316400
+1618,2,23,City centre,No,198800
+2127,4,22,City centre,Yes,292000
+1027,2,34,Suburb,No,63800
+1119,1,28,Suburb,Yes,105300
+1387,1,22,City centre,No,175400
+498,1,14,Riverside,Yes,62400
+2757,3,31,City centre,No,391600
+2543,3,26,Riverside,Yes,373900
+1891,4,27,City centre,Yes,295300
+2540,5,44,Suburb,Yes,209000
+2346,4,2,Suburb,Yes,265500
+2460,3,44,Riverside,Yes,271300
+1367,3,41,Outskirts,No,65000
+2045,2,32,Riverside,No,203100
+464,1,23,Suburb,Yes,31800
+2259,4,13,Riverside,Yes,281100
+799,2,18,City centre,No,105300
+2425,3,21,Outskirts,Yes,182500
+2414,3,19,Suburb,No,203000
+1912,3,36,Riverside,Yes,193300
+1207,2,21,City centre,No,148400
+2261,3,39,Outskirts,Yes,152600
+1179,2,38,City centre,No,131900
+1066,1,42,Suburb,Yes,62900
+2314,2,36,Riverside,Yes,194300
+1918,3,17,City centre,Yes,267500
+893,1,14,Suburb,Yes,80800
+2178,3,15,Suburb,Yes,218200
+2547,3,25,Suburb,No,210300
+2013,3,15,City centre,Yes,284100
+1433,2,34,City centre,Yes,169600
+1157,2,35,Suburb,Yes,110400
+679,1,15,Suburb,Yes,67900
+798,2,43,Riverside,Yes,67100
+2731,4,28,City centre,No,370400
+2249,3,25,Riverside,No,266300
+2573,3,29,City centre,Yes,357000
+759,1,19,Suburb,Yes,64100
+2155,4,9,Riverside,Yes,300100
+2634,6,29,Suburb,Yes,297400
+947,1,12,Suburb,Yes,100100
+950,1,18,Suburb,No,75600
+2204,4,19,City centre,Yes,358700
+2572,4,25,Suburb,Yes,261100
+2951,4,40,Outskirts,Yes,185700
+1428,2,8,Suburb,No,122000
+1205,1,30,Suburb,Yes,88000
+2928,4,4,Riverside,Yes,400700
+1992,4,20,Suburb,No,202900
+1070,3,18,Suburb,No,112100
+689,1,25,City centre,Yes,76900
+883,1,12,Suburb,Yes,82100
+3107,5,34,Riverside,Yes,416200
+2306,4,6,Suburb,Yes,282300
+2564,4,4,City centre,No,367700
+2577,3,43,Suburb,Yes,229000
+2072,3,20,City centre,No,314900
+1411,3,31,Outskirts,No,86000
+1150,1,18,Riverside,No,124900
+1747,2,17,Outskirts,Yes,108500
+2461,4,6,City centre,Yes,417700
+2269,4,44,Suburb,Yes,211700
+1728,3,15,Suburb,No,171300
+1261,2,4,Riverside,No,161300
+2738,4,42,Suburb,No,212800
+1519,2,15,Riverside,Yes,194400
+868,1,6,Suburb,No,82100
+2006,2,39,Outskirts,Yes,128400
+755,1,4,Suburb,No,67600
+1282,2,43,Suburb,Yes,101900
+1201,3,43,Suburb,No,80900
+851,1,35,City centre,No,84300
+2252,3,15,Outskirts,Yes,164000
+2948,4,8,City centre,Yes,453800
+1099,3,1,Riverside,Yes,189700
+787,1,25,City centre,Yes,95000
+1313,2,12,Suburb,No,110700
+3164,5,3,City centre,No,462500
+2668,4,33,City centre,Yes,384000
+2772,4,2,City centre,Yes,377800
+1262,3,39,Suburb,No,81300
+1679,3,38,Suburb,No,135400
+789,2,33,Suburb,Yes,54100
+2816,5,0,Suburb,No,328600
+2157,4,25,Suburb,No,185800
+626,1,4,Suburb,No,53400
+2508,3,10,City centre,No,335000
+1997,4,4,Outskirts,Yes,206200
+599,1,7,Riverside,Yes,79000
+1422,3,32,City centre,Yes,189400
+2111,3,36,Riverside,Yes,253400
+1277,1,28,City centre,Yes,145200
+966,1,5,Suburb,Yes,114700
+2910,5,9,Riverside,Yes,408200
+3039,6,25,Riverside,Yes,419500
+555,1,18,Riverside,Yes,55500
+603,1,21,Outskirts,Yes,29600
+2820,5,42,Riverside,Yes,268900
+1249,1,43,Outskirts,Yes,48900
+666,1,9,Suburb,No,58400
+1772,2,9,Outskirts,Yes,151500
+2312,4,3,City centre,No,390900
+1394,2,28,City centre,No,166800
+1235,2,29,City centre,Yes,155600
+1367,1,38,Suburb,Yes,100900
+1899,3,4,Suburb,Yes,239400
+1405,3,24,Outskirts,Yes,98200
+2994,4,25,City centre,No,432900
+2596,4,23,Outskirts,Yes,196200
+2642,4,11,Suburb,Yes,275100
+1130,1,0,City centre,No,174900
+722,1,1,City centre,Yes,111200
+2997,5,37,Suburb,No,253300
+1289,1,29,City centre,Yes,165900
+1826,2,39,Suburb,Yes,148100
+1792,3,33,City centre,No,222200
+2175,3,42,Suburb,Yes,184300
+2421,4,14,City centre,No,362800
+891,1,14,Riverside,No,96200
+465,1,7,Outskirts,No,34200
+2398,3,9,Outskirts,No,190900
+2825,4,43,Outskirts,Yes,211000
+2687,4,7,Outskirts,Yes,252300
+2765,5,11,Riverside,Yes,408300
+644,2,37,Suburb,Yes,38600
+3079,4,11,City centre,Yes,459800
+1171,3,8,Suburb,Yes,132000
+1006,2,16,City centre,No,164400
+2561,4,36,Suburb,No,224200
+1036,2,10,City centre,No,152800
+1960,4,24,Riverside,No,270400
+2740,5,11,Suburb,No,257500
+2791,4,42,Outskirts,Yes,175100
+1865,3,41,Suburb,Yes,153300
+1808,3,24,City centre,Yes,233500
+1124,2,3,Suburb,No,108000
+1226,3,39,Suburb,Yes,96400
+496,1,37,City centre,Yes,41300
+1679,2,21,Suburb,Yes,169000
+1045,1,24,Suburb,Yes,86700
+2147,3,20,Outskirts,No,151900
+2306,3,1,Suburb,Yes,221900
+1321,3,16,Outskirts,No,104000
+2465,4,6,City centre,No,378700
+3193,5,32,Suburb,No,276500
+1424,2,29,Suburb,No,114300
+2091,4,27,Outskirts,Yes,156300
+2973,5,25,Suburb,Yes,291000
+731,1,17,Riverside,Yes,80300
+1851,4,10,City centre,Yes,272600
+1092,1,0,City centre,No,147000
+1873,2,13,Suburb,Yes,196300
+1272,1,20,City centre,Yes,172700
+1535,3,41,Suburb,Yes,130400
+789,1,22,Riverside,Yes,86100
+1559,3,33,Riverside,Yes,178800
+2449,4,20,Suburb,No,279400
+1437,2,29,City centre,Yes,159000
+929,1,17,Suburb,Yes,93400
+2717,4,41,Riverside,Yes,334600
+907,2,4,Suburb,Yes,110900
+1660,3,10,Suburb,No,163300
+1093,3,35,Suburb,No,80200
+1086,1,14,Outskirts,Yes,71100
+2896,4,27,Outskirts,No,181300
+1647,2,37,City centre,No,190900
+2878,5,39,Riverside,Yes,309600
+2995,4,19,Suburb,Yes,325700
+2264,4,12,Suburb,No,254600
+2207,4,20,Outskirts,Yes,128000
+2515,4,8,Suburb,No,230300
+738,2,36,Riverside,Yes,72100
+2138,2,43,Outskirts,No,111700
+1602,2,44,Suburb,Yes,121400
+1905,2,12,Outskirts,Yes,153600
+1733,3,39,Riverside,Yes,209800
+2833,4,44,Suburb,Yes,272700
+488,1,34,City centre,Yes,46300
+2577,5,26,Suburb,No,253400
+3093,5,20,Suburb,No,331600
+2818,4,17,Suburb,No,242900
+2969,4,31,Suburb,Yes,283000
+939,1,13,Suburb,Yes,82800
+729,1,10,Suburb,Yes,84600
+1109,3,22,Suburb,No,120300
+1968,3,11,City centre,No,294300
+691,1,6,Riverside,No,76800
+1309,2,9,Riverside,No,165200
+845,2,41,City centre,No,77000
+1032,2,30,Outskirts,Yes,62400
+1851,3,21,City centre,Yes,287100
+1204,1,42,Suburb,No,69400
+1952,3,23,Suburb,Yes,151100
+597,2,34,Riverside,Yes,62200
+2523,4,6,City centre,Yes,371000
+2342,4,11,Suburb,Yes,243200
+2181,3,1,City centre,Yes,375700
+1458,1,29,Outskirts,No,70600
+2917,5,36,City centre,Yes,362800
+2374,4,15,Suburb,Yes,225300
+1352,2,18,Outskirts,Yes,101400
+2692,4,37,Suburb,Yes,269700
+3064,5,2,Suburb,Yes,386100
+2024,3,21,Suburb,Yes,198700
+1745,3,18,Outskirts,Yes,132700
+1394,2,11,Suburb,Yes,165800
+1329,1,15,Riverside,Yes,157800
+835,1,13,Suburb,No,78200
+619,1,33,City centre,Yes,61100
+2241,3,3,Suburb,No,239700
+2103,3,3,Suburb,Yes,229700
+2305,3,16,Suburb,Yes,240700
+2841,5,5,City centre,Yes,424100
+2598,5,15,Riverside,No,325500
+1069,2,35,City centre,Yes,126600
+828,1,20,Suburb,No,56400
+1791,2,30,Outskirts,No,105900
+576,2,29,Outskirts,Yes,30600
+2128,3,24,City centre,Yes,291700
+2867,4,41,Suburb,Yes,258300
+2453,4,29,Suburb,Yes,235600
+2117,4,36,Suburb,No,212300
+2737,4,42,Suburb,Yes,248600
+709,2,25,Suburb,No,47900
+1572,2,13,Outskirts,Yes,120600
+2399,3,16,City centre,No,352200
+3140,5,0,Suburb,Yes,348900
+604,1,7,City centre,No,81300
+634,1,10,Suburb,Yes,65700
+2188,3,26,Outskirts,No,148200
+2296,3,3,City centre,Yes,361400
+1975,4,2,Riverside,Yes,298800
+716,2,5,Suburb,Yes,78900
+2416,5,2,City centre,Yes,353200
+1844,3,39,Riverside,Yes,167100
+708,1,28,Suburb,No,39400
+529,1,27,Suburb,No,23300
+2948,4,7,City centre,Yes,489600
+2768,5,24,Outskirts,Yes,222700
+3036,4,38,City centre,Yes,450200
+909,1,12,Outskirts,Yes,68600
+3157,5,30,City centre,Yes,444700
+1892,4,20,Outskirts,Yes,135400
+2556,4,23,Suburb,No,230700
+2232,5,31,City centre,No,293800
+1307,4,42,City centre,Yes,181300
+1379,1,17,Suburb,Yes,145000
+3140,5,5,Outskirts,No,251400
+3007,4,39,Suburb,No,274500
+2139,3,13,City centre,Yes,321800
+2055,3,41,Suburb,Yes,165500
+2425,4,22,Outskirts,Yes,163500
+2810,5,11,Riverside,Yes,364500
+2268,4,43,Suburb,Yes,179500
+1084,2,7,Suburb,No,108200
+1018,2,3,Suburb,Yes,120900
+3075,5,11,Suburb,Yes,328200
+2796,4,27,Outskirts,Yes,206200
+996,2,33,Outskirts,No,44300
+2228,3,41,Riverside,Yes,237100
+1557,3,30,City centre,Yes,226100
+1057,1,6,City centre,No,126400
+2029,4,23,City centre,Yes,296200
+1489,3,31,Outskirts,No,92300
+2742,4,39,Suburb,Yes,237300
+844,1,31,Suburb,Yes,50300
+2410,5,36,City centre,Yes,355100
+1640,2,16,Suburb,Yes,154300
+2950,2,17,Outskirts,Yes,229400
+3171,5,24,Suburb,Yes,343900
+1926,3,10,Outskirts,Yes,161800
+1505,3,42,Suburb,No,110900
+2636,5,32,Suburb,No,269800
+1537,3,21,City centre,No,215200
+1612,3,18,City centre,No,206700
+2658,3,20,Outskirts,No,190500
+532,1,0,City centre,No,85700
+677,1,25,Outskirts,Yes,34700
+1072,2,39,Outskirts,No,40300
+779,1,1,Outskirts,Yes,74100
+561,1,43,Suburb,Yes,13900
+2500,4,36,City centre,No,304600
+627,1,6,Suburb,Yes,63800
+808,1,2,Suburb,No,90200
+559,1,32,Suburb,No,16400
+2131,3,44,Suburb,Yes,182600
+928,1,16,Outskirts,Yes,56800
+2696,3,43,Suburb,No,225200
+2272,4,44,Suburb,Yes,188500
+1998,2,36,Suburb,Yes,209100
+952,2,40,Suburb,Yes,59100
+670,1,40,Riverside,Yes,44000
+3081,5,0,City centre,Yes,516500
+1017,2,27,City centre,No,130900
+1643,2,0,City centre,No,202800
+1936,4,13,Outskirts,Yes,170800
+2062,4,5,Suburb,Yes,252900
+3073,5,27,City centre,Yes,398400
+913,2,33,Riverside,Yes,101600
+2248,3,30,Outskirts,Yes,150200
+2183,4,10,Outskirts,No,163000
+2366,4,6,Outskirts,Yes,201900
+3131,4,2,Suburb,Yes,329300
+2087,3,34,Outskirts,Yes,124300
+2704,4,24,Outskirts,No,229300
+1346,2,13,Suburb,Yes,134300
+1152,2,14,Outskirts,Yes,86800
+2121,4,23,Outskirts,Yes,177900
+1635,2,16,Riverside,Yes,207800
+476,1,11,Riverside,Yes,71100
+1747,2,14,Outskirts,Yes,131700
+1588,3,12,Outskirts,Yes,138800
+2645,5,43,Riverside,Yes,325100
+2682,5,39,Suburb,No,247900
+2120,4,30,Suburb,Yes,203500
+1012,1,34,Suburb,Yes,68800
+1889,2,3,City centre,Yes,323400
+2233,3,2,Suburb,Yes,234300
+579,1,7,City centre,No,75300
+2431,3,34,Outskirts,Yes,159700
+1673,3,37,Outskirts,Yes,111000
+880,1,41,Suburb,Yes,48600
+1390,3,3,Riverside,Yes,221300
+2808,3,31,Suburb,No,223100
+1156,2,0,Outskirts,Yes,114400
+1120,1,31,Suburb,Yes,82600
+2825,4,12,Suburb,Yes,292100
+3097,4,11,Suburb,Yes,330300
+1519,2,6,Suburb,Yes,139600
+1397,2,31,Riverside,Yes,162200
+1203,2,31,Suburb,Yes,101800
+2131,4,17,Riverside,No,243500
+720,2,8,Outskirts,Yes,69400
+3058,4,41,City centre,No,448100
+813,2,13,City centre,Yes,119700
+2704,4,31,Outskirts,Yes,206100
+2905,4,16,Suburb,No,283700
+1785,4,14,Outskirts,No,134000
+1929,1,19,Riverside,No,204000
+984,1,39,Suburb,Yes,57900
+1853,2,14,Suburb,Yes,205200
+2140,3,34,Riverside,No,258900
+2289,3,35,Suburb,No,184100
+2066,6,9,Outskirts,Yes,216000
+2176,4,26,Outskirts,Yes,164600
+625,2,9,Riverside,No,77900
+513,2,2,Outskirts,No,53400
+1501,2,0,City centre,No,208000
+966,2,19,Outskirts,Yes,63100
+2981,6,34,City centre,No,458800
+2360,4,10,City centre,Yes,306300
+1895,3,3,Riverside,Yes,279800
+2325,4,19,City centre,Yes,299600
+947,1,12,Suburb,Yes,93700
+2556,3,8,Suburb,Yes,265800
+2220,4,33,City centre,No,284700
+2657,4,2,Suburb,No,235500
+1698,2,13,Riverside,Yes,219100
+2294,3,37,Riverside,Yes,269100
+2962,4,12,Riverside,No,356800
+1377,2,18,Outskirts,Yes,102100
+1797,3,2,Suburb,Yes,222700
+2311,4,6,Suburb,Yes,243900
+521,1,2,Outskirts,Yes,56300
+1893,2,23,Suburb,Yes,161100
+893,1,25,Riverside,No,86700
+2228,4,19,City centre,Yes,344200
+932,1,6,Riverside,Yes,152500
+637,1,9,Riverside,No,80300
+3065,4,43,Riverside,Yes,378100
+1085,1,33,Suburb,Yes,86400
+1438,3,1,Suburb,No,149100
+1951,3,44,Outskirts,Yes,126000
+1409,2,14,Outskirts,No,94300
+1976,3,21,City centre,Yes,267400
+3134,5,8,Riverside,Yes,469400
+554,3,21,Suburb,Yes,63300
+1017,1,40,City centre,No,102700
+1493,2,8,City centre,Yes,198400
+2160,3,33,Riverside,No,252400
+1846,3,38,Suburb,Yes,154200
+3056,4,5,Suburb,No,311900
+875,1,8,Outskirts,Yes,61200
+2952,5,2,Outskirts,No,270700
+664,1,28,Suburb,No,33400
+890,1,3,Outskirts,No,62800
+1640,2,9,Outskirts,Yes,119800
+1745,2,33,Suburb,No,127900
+3034,4,44,Outskirts,No,211200
+1143,2,33,Suburb,Yes,91500
+1744,3,33,Suburb,No,142400
+2374,3,28,Suburb,Yes,233700
+2173,4,20,City centre,Yes,319100
+1126,1,22,City centre,Yes,147700
+833,1,27,City centre,Yes,103500
+936,2,20,Suburb,Yes,93200
+1564,3,2,Riverside,Yes,244900
+1197,1,26,Suburb,Yes,89000
+1881,3,9,Suburb,No,193800
+809,1,4,City centre,Yes,123100
+589,1,17,Suburb,Yes,53500
+2420,3,35,Outskirts,Yes,161700
+2369,5,22,City centre,Yes,334500
+1218,2,34,Riverside,Yes,129000
+1563,3,32,Suburb,Yes,153200
+1550,3,30,City centre,Yes,201200
+690,2,9,Suburb,Yes,74800
+1207,1,10,Suburb,Yes,127200
+1170,3,22,City centre,No,169300
+1495,2,9,Riverside,Yes,197600
+2321,3,40,City centre,No,293400
+1289,2,44,Outskirts,Yes,56200
+2099,5,39,Suburb,Yes,198500
+1422,3,42,Suburb,Yes,125200
+1839,2,30,Suburb,Yes,172900
+2399,3,33,Outskirts,Yes,165500
+1957,4,26,Suburb,Yes,193200
+928,1,35,City centre,No,76600
+3169,5,6,Riverside,No,438400
+2338,3,20,Suburb,Yes,241400
+2187,5,29,Outskirts,No,173400
+1405,2,39,Outskirts,Yes,87400
+1319,3,30,Suburb,No,113500
+707,1,31,Suburb,No,35200
+1630,2,6,City centre,No,213600
+779,2,19,City centre,Yes,121100
+1642,3,17,City centre,Yes,257800
+2926,3,30,City centre,No,429500
+2997,5,9,Outskirts,Yes,271600
+565,1,3,Riverside,No,77200
+2025,3,14,Suburb,No,222900
+1209,2,17,Riverside,No,136100
+943,2,6,City centre,Yes,159100
+2824,4,37,Outskirts,No,201100
+732,1,29,City centre,Yes,76300
+668,1,21,Suburb,Yes,50100
+713,1,20,Outskirts,Yes,45300
+1030,1,25,Suburb,No,72600
+1252,2,6,Outskirts,Yes,116100
+1189,1,25,City centre,Yes,157400
+1036,2,5,Riverside,Yes,142000
+2748,4,42,Riverside,No,325100
+2694,3,42,Outskirts,Yes,187400
+768,2,9,Outskirts,Yes,70200
+867,3,7,City centre,Yes,145400
+3050,6,30,Suburb,No,275400
+2497,3,28,City centre,No,353200
+779,2,20,Suburb,No,73800
+783,1,37,Suburb,Yes,39000
+2005,3,10,City centre,Yes,319400
+452,1,40,City centre,Yes,29200
+2576,4,2,Suburb,Yes,277500
+3057,6,40,Suburb,Yes,292000
+1986,3,27,Suburb,No,163500
+2802,4,2,Suburb,Yes,292700
+1845,2,8,City centre,Yes,276800
+2841,4,43,Suburb,Yes,271100
+1653,3,26,Suburb,No,149100
+1245,3,25,Suburb,Yes,130600
+1144,1,19,Riverside,No,125800
+458,1,34,Suburb,Yes,15400
+3179,5,18,Suburb,No,358600
+517,1,6,Outskirts,Yes,54100
+1560,3,39,City centre,Yes,188500
+1287,2,8,Outskirts,Yes,125900
+2208,2,4,Suburb,Yes,243100
+2454,3,39,Suburb,Yes,220100
+2051,4,25,City centre,Yes,340100
+675,1,31,Suburb,Yes,33700
+3095,5,18,Outskirts,No,210600
+2776,4,33,Suburb,Yes,280700
+1121,1,6,Outskirts,Yes,90800
+1960,3,33,Riverside,Yes,217900
+876,1,17,Riverside,Yes,118000
+1954,2,42,Suburb,Yes,163100
+2922,4,39,Outskirts,Yes,181900
+2816,5,25,City centre,No,378100
+1849,2,8,City centre,Yes,292000
+1720,3,27,Suburb,Yes,187800
+2213,4,30,Suburb,Yes,182900
+2035,3,43,Outskirts,Yes,126400
+2169,3,12,Outskirts,Yes,171800
+3100,5,26,City centre,Yes,387500
+2601,4,23,Riverside,No,321500
+2396,4,30,Riverside,No,254300
+2753,3,24,City centre,Yes,369300
+544,1,5,City centre,Yes,100400
+2378,4,3,City centre,Yes,387100
+1103,2,33,Suburb,Yes,94200
+463,1,36,Riverside,Yes,29100
+462,1,44,City centre,No,11400
+2752,5,17,City centre,Yes,444500
+2145,2,7,Suburb,Yes,204100
+566,2,9,Outskirts,Yes,56200
+1940,2,5,Suburb,No,208800
+2808,5,9,Riverside,Yes,369900
+2974,5,20,Riverside,Yes,383800
+453,1,44,Suburb,Yes,2700
+1208,2,10,Outskirts,Yes,114600
+2579,4,42,Suburb,Yes,223800
+1029,1,15,Suburb,No,80500
+2206,3,21,Suburb,Yes,229800
+2247,3,38,City centre,No,290100
+521,1,12,City centre,No,60800
+975,2,38,Riverside,No,89400
+2522,4,31,Outskirts,Yes,192800
+2693,4,10,Suburb,No,280400
+2043,2,2,City centre,Yes,380400
+2711,6,0,City centre,No,474100
+782,2,38,Riverside,Yes,78300
+1102,2,6,City centre,No,174800
+2861,4,0,Suburb,Yes,394700
+601,1,35,Suburb,Yes,31700
+2075,3,2,Suburb,Yes,221000
+2176,3,24,City centre,Yes,313800
+1722,4,15,Suburb,Yes,192300
+1454,2,28,Suburb,Yes,123600
+3049,5,20,Riverside,No,402800
+2923,4,26,Suburb,Yes,295900
+1008,1,0,Outskirts,Yes,92700
+2214,3,19,Suburb,Yes,215000
+934,2,12,City centre,Yes,151500
+846,1,35,City centre,Yes,77800
+2904,4,44,Outskirts,No,193600
+2141,3,16,City centre,No,300700
+891,2,34,Outskirts,No,34700
+1152,3,9,Suburb,No,101300
+2698,4,2,Outskirts,Yes,269400
+2702,3,32,Suburb,Yes,217800
+1027,2,39,Outskirts,Yes,45500
+993,3,40,Suburb,Yes,81500
+2688,4,20,Outskirts,No,190700
+3192,5,40,City centre,Yes,428100
+1572,2,44,Riverside,Yes,134700
+3136,5,5,Suburb,Yes,337200
+2147,3,14,Suburb,Yes,227800
+3036,4,3,Suburb,Yes,351000
+2119,3,13,Suburb,No,206100
+2033,4,12,City centre,Yes,317700
+1535,3,30,Suburb,Yes,148200
+2930,5,40,Suburb,Yes,265600
+1875,3,21,Suburb,No,166000
+771,1,2,Suburb,No,91900
+2235,3,12,Suburb,No,208500
+1149,2,26,City centre,No,153900
+825,1,23,Outskirts,No,35900
+529,1,25,City centre,No,52400
+2968,3,28,Riverside,No,337900
+863,1,44,Suburb,No,30700
+2714,4,14,Riverside,Yes,374300
+2714,3,31,Outskirts,No,174500
+1022,2,37,Outskirts,Yes,52400
+1930,2,43,Riverside,Yes,196400
+1069,1,33,City centre,Yes,121700
+2164,3,0,Outskirts,Yes,187800
+1535,2,33,Suburb,Yes,137800
+2715,5,39,Riverside,No,324600
+2572,4,29,Riverside,No,280000
+1915,3,39,Riverside,Yes,215300
+1871,2,10,Suburb,Yes,193000
+938,1,35,Suburb,Yes,57000

@@ -1,0 +1,17 @@
+# Cloud: one-click deploy on Render (https://render.com/docs/blueprint-spec).
+# New > Blueprint > pick this repository. Render builds the Dockerfile and gives you an https URL.
+services:
+  - type: web
+    name: democratize-ml
+    runtime: docker
+    plan: starter            # the persistent disk below needs a paid plan; see README for the free option
+    healthCheckPath: /healthz
+    envVars:
+      - key: APP_USERNAME
+        value: admin
+      - key: APP_PASSWORD
+        generateValue: true  # find the generated password under Environment in the Render dashboard
+    disk:
+      name: ml-data
+      mountPath: /data
+      sizeGB: 1
