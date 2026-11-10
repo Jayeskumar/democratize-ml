@@ -10,18 +10,31 @@
 <body>
   <header class="top">
     <a class="brand" href="#build">
-      <svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><rect width="32" height="32" rx="8" fill="var(--accent)"/><path d="M8 22l6-8 4 5 6-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      Democratize ML
+      <svg viewBox="0 0 32 32" width="30" height="30" aria-hidden="true"><rect width="32" height="32" rx="9" fill="var(--accent)"/><path d="M8 22l6-8 4 5 6-9" fill="none" stroke="var(--accent-ink)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span>Democratize <b>ML</b></span>
     </a>
+    <span class="private" title="Everything you upload and train is stored on the server running this app, nowhere else.">
+      <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path d="M5 11h14v10H5zM8 11V7a4 4 0 0 1 8 0v4"/></svg>
+      Your data stays on this server
+    </span>
     <nav>
       <a href="#build" data-tab="build">Build</a>
-      <a href="#models" data-tab="models">My models</a>
+      <a href="#models" data-tab="models">My models <span id="model-count" class="count" hidden></span></a>
     </nav>
   </header>
 
   <main id="view-build" class="build" hidden>
+    <section class="intro">
+      <p class="eyebrow">No code. No maths. About a minute.</p>
+      <h1>Teach a computer to predict from your spreadsheet</h1>
+      <p>Give it past examples, point at the column you want predicted, and press Train. Drag blocks into the four steps to customise — or just tap them.</p>
+    </section>
+
     <aside class="palette" aria-label="Blocks">
-      <p class="hint">Drag a block into your recipe — or just tap it.</p>
+      <div class="palette-head">
+        <b>Blocks</b>
+        <span>drag or tap</span>
+      </div>
       <h2>Example data</h2>
       <div id="palette-data" class="blocks"></div>
       <h2>Clean-up</h2>
@@ -31,40 +44,35 @@
     </aside>
 
     <section class="recipe" aria-label="Your recipe">
-      <div class="intro">
-        <h1>Teach a computer to predict, no code needed</h1>
-        <p>Give it a spreadsheet of past examples, point at the column you want predicted, and press Train.</p>
-      </div>
-
       <article class="stage" id="stage-data">
-        <h2><span class="num">1</span>Add your data</h2>
+        <header class="stage-head"><span class="num">1</span><div><h2>Add your data</h2><p>A table of past examples</p></div></header>
         <div id="data-body"></div>
       </article>
 
       <article class="stage" id="stage-target">
-        <h2><span class="num">2</span>What do you want to predict?</h2>
+        <header class="stage-head"><span class="num">2</span><div><h2>What do you want to predict?</h2><p>Pick one column as the answer</p></div></header>
         <div id="target-body"></div>
       </article>
 
       <article class="stage" id="stage-steps">
-        <h2><span class="num">3</span>Clean-up <small>optional</small></h2>
+        <header class="stage-head"><span class="num">3</span><div><h2>Clean-up <span class="opt">optional</span></h2><p>Blanks and text are handled for you</p></div></header>
         <div id="steps-zone" class="zone" data-accept="step"></div>
       </article>
 
       <article class="stage" id="stage-model">
-        <h2><span class="num">4</span>Learner</h2>
+        <header class="stage-head"><span class="num">4</span><div><h2>Learner</h2><p>How the computer looks for patterns</p></div></header>
         <div id="model-zone" class="zone" data-accept="model"></div>
       </article>
 
-      <div class="train-row">
-        <button id="train" class="primary big" disabled>Train my model</button>
+      <div class="train-bar">
         <p id="train-msg" role="status"></p>
+        <button id="train" class="primary big" disabled>Train my model</button>
       </div>
     </section>
   </main>
 
   <main id="view-models" class="page" hidden>
-    <h1>My models</h1>
+    <div class="crumbs"><h1>My models</h1><a class="ghost" href="#build">+ Build a new one</a></div>
     <div id="models-list"></div>
   </main>
 
